@@ -1,0 +1,9 @@
+﻿  Source1.c
+C:\Users\nerid\source\repos\ex4\ex4\Source1.c(119,16): warning C4047: '==': 'int' differs in levels of indirection from 'char [1]'
+C:\Users\nerid\source\repos\ex4\ex4\Source1.c(362,27): warning C4098: 'replaceAll': 'void' function returning a value
+C:\Users\nerid\source\repos\ex4\ex4\Source1.c(378,29): warning C4098: 'change': 'void' function returning a value
+C:\Users\nerid\source\repos\ex4\ex4\Source1.c(402,29): warning C4098: 'add': 'void' function returning a value
+C:\Users\nerid\source\repos\ex4\ex4\Source1.c(419,29): warning C4098: 'delete': 'void' function returning a value
+C:\Users\nerid\source\repos\ex4\ex4\Source1.c(436,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nerid\source\repos\ex4\ex4\Source1.c(107): warning C4715: 'changeStr': not all control paths return a value
+  ex4.vcxproj -> C:\Users\nerid\source\repos\ex4\x64\Debug\ex4.exe
